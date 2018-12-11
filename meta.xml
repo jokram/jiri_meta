@@ -3,6 +3,6 @@
   <imports>
     <import remote="https://github.com/jokram/jiri_submeta.git"
             manifest="submeta.xml"
-            name="submeta"/>
+            name="jiri_submeta"/>
   </imports>
 </manifest>
