@@ -5,4 +5,9 @@
             manifest="submeta.xml"
             name="jiri_submeta"/>
   </imports>
+  <projects>
+      
+    <project name="jiri_submeta" path="pkg/submeta" remote="https://github.com/jokram/jiri_submeta.git" />
+    
+  </projects>
 </manifest>
