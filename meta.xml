@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <imports>
-    <import remote="https://github.com/jokram/jiri_submeta.git"
-            manifest="submeta.xml"
-            name="jiri_submeta"/>
+    <import remote="https://github.com/jokram/jiri_submeta.git" manifest="submeta.xml" name="jiri_submeta" root="pkg/submeta"/>
   </imports>
   <projects>
       
