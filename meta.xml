@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <imports>
-    <import remote="https://github.com/jokram/jiri_submeta.git" manifest="submeta.xml" name="jiri_submeta" root="pkg/submeta"/>
+    <import remote="https://github.com/jokram/jiri_submeta.git" manifest="submeta.xml" name="submeta" root="pkg/submeta"/>
   </imports>
   <projects>
       
-    <project name="jiri_submeta" path="pkg/submeta" remote="https://github.com/jokram/jiri_submeta.git" />
+    <project name="submeta" path="pkg" remote="https://github.com/jokram/jiri_submeta.git" />
     
   </projects>
 </manifest>
