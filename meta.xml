@@ -5,7 +5,7 @@
   </imports>
   <projects>
       
-    <project name="submeta" path="pkg" remote="https://github.com/jokram/jiri_submeta.git" />
+    <project name="submeta" path="pkg/submeta" remote="https://github.com/jokram/jiri_submeta.git" />
     
   </projects>
 </manifest>
